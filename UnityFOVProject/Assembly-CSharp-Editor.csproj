@@ -48,6 +48,7 @@
      <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
      <Compile Include="Assets\OVR\Editor\OVRMoonlightLoader.cs" />
      <Compile Include="Assets\OVR\Editor\OVRScreenshotWizard.cs" />
+     <None Include="Assets\Scripts\PhotoShader.shader" />
      <None Include="Assets\OVR\Shaders\OVRColorRampAlpha.shader" />
      <None Include="Assets\OVR\Shaders\Unlit Crosshair.shader" />
      <None Include="Assets\OVR\Resources\Unlit Transparent Color.shader" />
