@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{78386097-1254-3F4C-C2A7-15CB98C45F75}") = "UnityFOVProject", "Assembly-CSharp.csproj", "{36FA38C9-653C-7E16-57E1-D56075BED41D}"
+EndProject
+Project("{78386097-1254-3F4C-C2A7-15CB98C45F75}") = "UnityFOVProject", "Assembly-CSharp-Editor.csproj", "{100DD96A-DC1F-2355-753C-5CDA8FA4CD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FA38C9-653C-7E16-57E1-D56075BED41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FA38C9-653C-7E16-57E1-D56075BED41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FA38C9-653C-7E16-57E1-D56075BED41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FA38C9-653C-7E16-57E1-D56075BED41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100DD96A-DC1F-2355-753C-5CDA8FA4CD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100DD96A-DC1F-2355-753C-5CDA8FA4CD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100DD96A-DC1F-2355-753C-5CDA8FA4CD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100DD96A-DC1F-2355-753C-5CDA8FA4CD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
